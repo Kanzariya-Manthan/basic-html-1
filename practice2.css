@@ -1,0 +1,176 @@
+.container {
+    height: 40px;
+    background-color: grey;
+}
+
+.head {
+    background-color: grey;
+    height: 60px;
+    width: 35%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.left {
+    background-color: grey;
+    width: 49%;
+    float: left;
+    margin: 5px;
+    height: 480px;
+    margin-top: 40px;
+
+}
+
+.right {
+    background-color: grey;
+    width: 49%;
+    float: left;
+    margin: 5px;
+    height: 480px;
+    margin-top: 40px;
+}
+
+.head2 {
+    background-color: grey;
+    height: 50px;
+    width: 50%;
+    margin: auto;
+    margin-top: 540px;
+    margin-bottom: 20px;
+}
+
+.cont2 {
+    background-color: grey;
+    float: left;
+    height: 300px;
+    width: 300px;
+    margin: 10px 10px 10px 10px;
+}
+
+.slide2 {
+    margin: 100px;
+}
+
+.cont3 {
+    height: 60px;
+    width: 75%;
+    background-color: grey;
+    margin: auto;
+    margin-top: 700px;
+}
+
+.slide3 {
+    background-color: grey;
+    height: 600px;
+    width: 100%;
+}
+
+.card {
+    background-color: white;
+    height: 500px;
+    width: 28%;
+    margin: 38px;
+    float: left;
+    margin-top: 48px;
+}
+
+.bx1 {
+    background-color: grey;
+    height: 40px;
+    width: 300px;
+    margin: 20px;
+    margin-left: 60px;
+}
+
+.bx2 {
+    background-color: grey;
+    height: 170px;
+    width: 300px;
+    margin: 20px;
+    margin-left: 60px;
+}
+
+.bx3 {
+    background-color: grey;
+    height: 170px;
+    width: 300px;
+    margin: 20px;
+    margin-left: 60px;
+}
+
+.slide4 {
+    height: 600px;
+    width: 100%;
+}
+
+.head3 {
+    height: 60px;
+    width: 20%;
+    margin: auto;
+    background-color: grey;
+    margin-top: 50px;
+}
+
+.box1 {
+    height: 60px;
+    width: 50%;
+    background-color: grey;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.box2 {
+    height: 60px;
+    width: 50%;
+    background-color: grey;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.box3 {
+    height: 60px;
+    width: 50%;
+    background-color: grey;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.bbox {
+    height: 250px;
+    width: 50%;
+    background-color: grey;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.sbox1 {
+    background-color: grey;
+    height: 80px;
+    width: 370px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 372px;
+}
+
+.sbox2 {
+    background-color: grey;
+    height: 80px;
+    width: 370px;
+    float: left;
+    margin: 10px;
+    margin-right: 298px;
+}
+
+.container1 {
+    background-color: grey;
+    height: 400px;
+    margin-top: 100px;
+}
+
+.bigb1 {
+    background-color: white;
+    height: 360px;
+    margin: 20px;
+    width: 47%;
+    float: left;
+}
